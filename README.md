@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB+%D0%91%D0%B5%D0%BB%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%D0%B2;Web-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;3+%D0%BA%D1%83%D1%80%D1%81+%D0%98%D0%A2%D0%91+%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB+%D0%91%D0%B5%D0%BB%D0%BE%D0%B7%D0%B5%D1%80%D0%BE%D0%B2;Web-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;3+%D0%BA%D1%83%D1%80%D1%81+%D0%98%D0%A2%D0%91+%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Belozerovmi&label=👀+%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2&color=6C63FF&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Belozerovmi&label=+%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%BE%D0%B2&color=6C63FF&style=flat-square" alt="views" />
   <img src="https://img.shields.io/github/followers/Belozerovmi?label=%F0%9F%91%A5%20Followers&style=flat-square&color=6C63FF" alt="followers" />
 </p>
 
 ---
 
-### 👋 Обо мне:
+###  Обо мне:
 
 Студент 3-го курса отделения ИТБ (специальность "Разработка веб- и мультимедийных приложений"). Занимаюсь веб-разработкой более 3-х лет. Разрабатываю frontend/backend сайты, делаю из них PWA/APK по необходимости. 
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠 Мой стек
+###  Мой стек
 
 <p align="center">
   <!-- Frontend -->
@@ -53,7 +53,7 @@
 
 ---
 
-### 💼 Проекты
+###  Проекты
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
@@ -63,7 +63,7 @@
 
 ---
 
-### 📊 GitHub статистика
+###  GitHub статистика
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Belozerovmi&show_icons=true&theme=dark&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&border_radius=12&hide_border=true" />
@@ -76,7 +76,7 @@
 
 ---
 
-### 📫 Контакты
+###  Контакты
 
 <p align="center">
   <a href="https://t.me/Belozerov_mi">
