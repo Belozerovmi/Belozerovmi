@@ -55,8 +55,8 @@
 
 ###  Проекты
 
-| Проект | Описание | Стек |
-| :--- | :--- | :--- |
+| Проект | Описание | 
+| :--- | :--- | 
 | [**Чат-бот для РВК Воронеж**](https://github.com/Belozerovmi/chatbot--rvk--practice) | *Разработал дизайн-концепцию, реализовал бота с БД, подготовил его под продакшен* 
 | [**Pasta Calculator API**](https://github.com/Belozerovmi/Pasta_Calculator-API) | *С нуля реализовал инстурмент, который решает проблему людей, которые следят за питанием* 
 | [**VPN-link-actualizer**](https://github.com/Belozerovmi/VPN-link-actualizer) | *Разработал актуалайзер ссылок с репозитория Igareck* 
